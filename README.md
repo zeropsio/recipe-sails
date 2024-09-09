@@ -1,7 +1,8 @@
-# test-project
+# Zerops x Sails
 
-a [Sails v1](https://sailsjs.com) application
+A barebare example of Sails.
 
+![Sails](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-sails.svg)
 
 ### Links
 
